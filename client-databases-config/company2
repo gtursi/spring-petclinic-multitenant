@@ -1,0 +1,4 @@
+name=company2
+datasource.url=jdbc:postgresql://localhost:5432/INSPECCIONES
+datasource.username=postgres
+datasource.password=jimi110559

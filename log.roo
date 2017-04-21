@@ -1,0 +1,7 @@
+// Spring Roo 2.0.0.RC1 [rev 28015e3] log opened at 2017-04-12 17:31:40
+// Spring Roo 2.0.0.RC1 [rev 28015e3] log closed at 2017-04-12 17:50:24
+// Spring Roo 2.0.0.RC1 [rev 28015e3] log opened at 2017-04-12 17:50:51
+settings add --name spring.roo.jpa.require.schema-object-name --value true
+// [failed] jpa setup --provider HIBERNATE --database HYPERSONIC_PERSISTENT
+// [failed] script --file northwind-multimodule.roo
+// Spring Roo 2.0.0.RC1 [rev 28015e3] log closed at 2017-04-12 18:14:06
